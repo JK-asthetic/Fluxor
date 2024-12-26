@@ -1,0 +1,28 @@
+{
+    "theme_name": "WhiteOrange",
+    "app_color": {
+        "dark_one": "#dcdcdc",
+        "dark_two": "#fafafa",
+        "dark_three": "#ffffff",
+        "dark_four": "#f0f0f0",
+        "bg_one": "#ffffff",
+        "bg_two": "#f7f7f7",
+        "bg_three": "#ededed",
+        "icon_color": "#b0b0b0",
+        "icon_hover": "#ffa366",
+        "icon_pressed": "#ff8533",
+        "icon_active": "#ff751a",
+        "context_color": "#ff6600",
+        "context_hover": "#ff8533",
+        "context_pressed": "#cc5200",
+        "text_title": "#000000",
+        "text_foreground": "#000000",
+        "text_description": "#000000",
+        "text_active": "#000000",
+        "white": "#ffffff",
+        "pink": "#ff4d4d",
+        "green": "#66ff66",
+        "red": "#ff3333",
+        "yellow": "#ffd633"
+    }
+}

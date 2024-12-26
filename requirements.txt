@@ -1,0 +1,11 @@
+PySide6
+pathlib
+asciitree
+click
+PyPDF2
+google-generativeai
+groq
+pandas
+comtypes
+docx2txt
+python-dotenv
